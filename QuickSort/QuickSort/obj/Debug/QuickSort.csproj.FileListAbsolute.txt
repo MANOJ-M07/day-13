@@ -1,0 +1,8 @@
+D:\simplilearn\day-13\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+D:\simplilearn\day-13\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+D:\simplilearn\day-13\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+D:\simplilearn\day-13\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+D:\simplilearn\day-13\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-13\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-13\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+D:\simplilearn\day-13\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
